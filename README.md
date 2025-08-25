@@ -25,7 +25,7 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](#)  
+- 💼 LinkedIn: [linkedin](#https://www.linkedin.com/in/siddhi-seth-5ba77b318/)  
 - 📧 Email: siddhiseth18@gmai.com
 
 ---
