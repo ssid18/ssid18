@@ -5,6 +5,10 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=ssid18&color=blueviolet)
+
+---
+
 ## 🔧 Tech Stack
 - **Languages:** C++, C, Python, JavaScript, TypeScript  
 - **Web Development:** React.js, Node.js, Express.js, Tailwind CSS, Firebase  
@@ -15,8 +19,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Siddhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
+![Siddhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssid18&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssid18&layout=compact&theme=tokyonight)  
 
 ---
 
